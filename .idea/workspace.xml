@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5522b6d4-7401-4730-b7d1-a38be70db94f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/model/CloudMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/model/FileMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/model/FileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/model/ListMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/model/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/nio/ChannelExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/nio/PathExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/geekbrains/javaGB/nio/server/TelnetTerminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/java/com/geekbrains/javagb/geekcloudclient/CloudClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/java/com/geekbrains/javagb/geekcloudclient/CloudMainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/java/com/geekbrains/javagb/geekcloudclient/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/resources/com/geekbrains/javagb/geekcloudclient/geek-cloud-client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-client/src/main/resources/com/geekbrains/javagb/geekcloudclient/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/CloudServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/Netty/BufToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/Netty/EchoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/Netty/FileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/Netty/StringToBuf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/java/com/geekbrains/javaGB/Netty/serial/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-cloud-server/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_files/123_only_warnings.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/javaGB/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FwooSk0bZiPdd86ZJjtVk2H3Bf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/javaGB/common"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.geekbrains.javaGB.geekcloudclient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaGB\common" />
+      <recent name="D:\javaGB\server_files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaGB\common\src\main\java" />
+      <recent name="D:\javaGB\geek-cloud-client\src\main\resources\com\geekbrains\javagb\geekcloudclient" />
+      <recent name="D:\javaGB\geek-cloud-server\src\main\resources" />
+      <recent name="D:\javaGB\src\main\java\com\geekbrains\javaGB\geekcloudclient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CloudClient">
+    <configuration name="CloudClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbrains.javagb.geekcloudclient.CloudClient" />
+      <module name="geek-cloud-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbrains.javagb.geekcloudclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbrains.javaGB.CloudServer" />
+      <module name="geek-cloud-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbrains.javaGB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbrains.javaGB.Netty.EchoServer" />
+      <module name="javaGB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbrains.javaGB.Netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbrains.javaGB.Netty.FileServer" />
+      <module name="geek-cloud-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbrains.javaGB.Netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CloudClient" />
+        <item itemvalue="Application.FileServer" />
+        <item itemvalue="Application.CloudServer" />
+        <item itemvalue="Application.EchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5522b6d4-7401-4730-b7d1-a38be70db94f" name="Changes" comment="" />
+      <created>1665412682991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665412682991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
